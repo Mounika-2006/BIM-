@@ -1,2 +1,2 @@
 # BIM-
-BIM training
+BIM training day1
